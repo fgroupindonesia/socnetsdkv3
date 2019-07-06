@@ -19,27 +19,51 @@ You've to understand general concept of Command Prompt, nothing more than that. 
 ## Quick Tutorials.
 If you want to directly execute the Command, please follow the steps below:
 
-### 1st Simulation
-We're going to publish a post *WITHOUT* :
+### - 1st Simulation
+We're going to publish a post **WITHOUT** :
 1) *.acc file
 
 2) *.post file
 
-So, we have to use several parameters when executing a command. Take your attention carefully onwards.
+So, we have to **use several parameters** when executing a command. Take your attention carefully onwards.
 
-Within Command Prompt we just execute:
+Within **Command Prompt** we just execute:
 
 ```
 > socnetsdk.exe –path=C:\mysocnet –account=your@home.com,kunci1234,facebook –post=cool
 ```
 
-If you want to post containing spaces take a look:
+If you want to **publish a post containing spaces**, take a look from this command:
 
 ```
 > socnetsdk.exe –path=C:\mysocnet –account=your@home.com,kunci1234,facebook –post="know how to do automation? Check our work at domain-bla-bla.com"
 ```
 
-Simple & straight forward, Am I right?
+**Simple & straight forward**, right?
 
 
-### 2nd Simulation
+### - 2nd Simulation
+We're going to publish a post **WITH** :
+1) *.acc file
+
+2) *.post file
+
+What about the **parameters**?? Great, I know you're following the steps very carefully. So then, within **Command Prompt** we just execute:
+
+```
+> socnetsdk.exe –path=“C:\new location\mysocnet”
+```
+
+
+### - 3rd Simulation
+What if we don't want the Frame of clicking, etc to be shown...
+It's quite simple, just add **1 parameter** we named it as **visibility**. 
+
+Here, take a look for the following command :
+
+```
+> socnetsdk.exe –path=“C:\new location\mysocnet” -visibility=gone
+```
+
+That's it!!
+
