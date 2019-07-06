@@ -19,6 +19,10 @@ You've to understand general concept of Command Prompt, nothing more than that. 
 ## Quick Tutorials.
 If you want to directly execute the Command, please follow the steps below:
 
+If you're Windows user, then use the **socnetsdk.exe**, 
+and If you're Linux user, then use the **socnetsdk.jar**. 
+
+
 ### - 1st Simulation
 We're going to publish a post **WITHOUT** :
 1) *.acc file
@@ -42,22 +46,23 @@ If you want to **publish a post containing spaces**, take a look from this comma
 **Simple & straight forward**, right?
 
 
+
 ### - 2nd Simulation
 We're going to publish a post **WITH** :
 1) *.acc file
 
 2) *.post file
 
-What about the **parameters**?? Great, I know you're following the steps very carefully. So then, within **Command Prompt** we just execute:
+Put those 2 files under the same directory. Then, what about the **parameters**?? Great, let's try within **Command Prompt** we just execute:
 
 ```
 > socnetsdk.exe –path=“C:\new location\mysocnet”
 ```
 
 
+
 ### - 3rd Simulation
-What if we don't want the Frame of clicking, etc to be shown...
-It's quite simple, just add **1 parameter** we named it as **visibility**. 
+What if we don't want the Frame of clicking, etc to be shown...? Well, the answer is quite simple, just add **1 parameter** we named it as **visibility**. 
 
 Here, take a look for the following command :
 
