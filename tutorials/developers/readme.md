@@ -2,9 +2,11 @@
 This implementation requires you to run the library (*.jar) to be executed.
 
 You've to understand general concept of these main points:
-1) Java Programming & Thread
+1) OOP Concept
 
-2) Algorithm Logic 
+2) Method
+
+3) Thread
 
 
 ## Comprehensive Tutorials.
