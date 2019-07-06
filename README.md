@@ -1,7 +1,7 @@
 # socnetsdkv3
 an automation library that help everyone to do social media post easily!
 
-## For new comers (non-developers)
+## For new comers
 we suggest you to try out several tutorials given
 
 1.[Non-Developers.](https://github.com/fgroupindonesia/socnetsdkv3/tree/tutorials-non-developers)
