@@ -20,6 +20,8 @@ public class SimulasiSederhana {
         myBot.addUser(myUser);
         myBot.start(true);
         
+        
+        
     }
 
 }

@@ -477,7 +477,6 @@ public class Engine {
         waiting(WAITING_CLICK_TIME);
 
     }
-
     
     public void loginGoogle(Account akun) {
 
