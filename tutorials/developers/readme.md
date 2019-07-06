@@ -23,11 +23,16 @@ You've to understand general concept of these main points:
 
 
 ## Quick Tutorials.
-First you have to put the *.jar file under your Project. Then you may use the following code :
+First you have to put the *.jar file under your Project. 
+<center>
+	<img src="socnetsdk-jar-project.png"/>
+<center>
+
+Then you may use the following code :
 
 ### - Basic Simulation
 We're going to :
-1) Logging to Facebook
+1) Logging into Facebook
 
 2) Publishing a post
 
@@ -56,13 +61,13 @@ Engine myBot = new Engine();
 Account myUsers []= AccountBuilder.create("one@gmail.com", "konci", “hayo coba socnetSDK!”,
 SocialMedia.FACEBOOK, SocialMedia.TWITTER);
 myBot.addUsers(myUsers);
-myBot.start(true, 3, 7);
+myBot.start(true, 5, 13);
 ```
 
 We've just used **AccountBuilder** for creating account into **different social medias**. 
 
-And take a look for the last line of code, we put **true** for auto-closing-frame, and then **interval-min** which is **3** and **interval-max** which is **7**. 
+And take a look for the last line of code, we put **true** for auto-closing-frame, and then **interval-min** which is **5** and **interval-max** which is **13**. 
 
-What's that means anyway? **SocNetSDK** will have a time to wait within several minute either 3-7 minutes gap. So your activity in social medias are good to go for future usage!
+What's that means anyway? **SocNetSDK** will have a time to wait within several minute either 5-13 minutes for each post gap. So your activity in social medias are good to go for future usage! Our suggestion is always use above 5 minutes for safety reason.
 
 That's it!
