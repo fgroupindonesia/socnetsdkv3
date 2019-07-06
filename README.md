@@ -11,7 +11,7 @@ we suggest you to try out several tutorials given
 ## For experts (developers)
 we suggest to explore our nightly-build, as it's the latests applied changes.
 
-1.[Nightly-Build.](https://github.com/fgroupindonesia/socnetsdkv3/tree/nightly-build>)
+1.[Nightly-Build.](https://github.com/fgroupindonesia/socnetsdkv3/tree/nightly-build)
 
 # Corporate Usage
 Interested to integrate into your business app? Email us : training[at]fgroupindonesia[dot]com
