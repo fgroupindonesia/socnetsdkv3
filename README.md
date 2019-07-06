@@ -4,9 +4,9 @@ an automation library that help everyone to do social media post easily!
 ## For new comers
 we suggest you to try out several tutorials given
 
-1.[Non-Developers.](https://github.com/fgroupindonesia/socnetsdkv3/tree/tutorials-non-developers)
+1.[Non-Developers.](tree/tutorials/non-developers)
 
-2.[Developers.](https://github.com/fgroupindonesia/socnetsdkv3/tree/tutorials-developer)
+2.[Developers.](tree/tutorials/developers)
 
 ## For experts (developers)
 we suggest to explore our nightly-build, as it's the latests applied changes.
