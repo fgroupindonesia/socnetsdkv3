@@ -1,4 +1,5 @@
 # SocNet SDK v3
+![SocNet SDK Logo](logo.png)
 known as Social Network Software Development Kit.
 It has two different kinds of application:
 1. library (*.jar)
