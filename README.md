@@ -3,12 +3,12 @@
   <img src="logo.png">
 </center>
 
-known as Social Network Software Development Kit.
+This SDK is known as Social Network Software Development Kit.
 It has two different kinds of application:
 1. library (*.jar)
 2. small app (*.exe)
 
-The SocNetSDK is also known as an automation library that help everyone to do social media post easily!
+The **SocNetSDK** is also known as an automation library that help everyone to do social media post easily!
 
 ## For new comers
 we suggest you to try out several tutorials given
